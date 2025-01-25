@@ -6,10 +6,12 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -26,5 +28,6 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
