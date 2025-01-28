@@ -3,7 +3,6 @@ class Solution {
     {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = Integer.MIN_VALUE;;
-        int maxProfitIndex = -1;
         for(int i = 0; i < prices.length; i++)
         {
             if(prices[i] < minPrice)
@@ -14,7 +13,6 @@ class Solution {
             if(profit > maxProfit)
             {
                 maxProfit = profit;
-                maxProfitIndex = i;
             }
         }
         return maxProfit;    
