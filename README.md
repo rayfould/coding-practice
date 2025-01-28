@@ -6,6 +6,7 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rayfould/coding-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rayfould/coding-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -26,6 +27,7 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rayfould/coding-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
