@@ -19,6 +19,7 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rayfould/coding-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -34,4 +35,12 @@ This repository will hold all of my solutions to coding problems from websites l
 | ------- |
 | [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rayfould/coding-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rayfould/coding-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
