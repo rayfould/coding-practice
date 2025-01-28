@@ -5,12 +5,12 @@ class Solution {
         int maxProfit = 0;
         for(int i = 0; i < prices.length; i++)
         {
+            int profit = prices[i] - minPrice;
             if(prices[i] < minPrice)
             {
                 minPrice = prices[i];
             }
-            int profit = prices[i] - minPrice;
-            if(profit > maxProfit)
+            else if (profit > maxProfit)
             {
                 maxProfit = profit;
             }
