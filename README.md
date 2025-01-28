@@ -6,6 +6,7 @@ This repository will hold all of my solutions to coding problems from websites l
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rayfould/coding-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rayfould/coding-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rayfould/coding-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rayfould/coding-practice/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ This repository will hold all of my solutions to coding problems from websites l
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rayfould/coding-practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rayfould/coding-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
