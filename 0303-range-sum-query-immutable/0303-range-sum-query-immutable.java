@@ -5,17 +5,26 @@ class NumArray
 
     public NumArray(int[] nums) 
     {
-        temp = nums;
+        temp = new int[nums.length];
+        for(int i = 0; i < nums.length; i++)
+        {
+            if (i == 0)
+            {
+                temp[i] = nums[i];
+                continue;
+            }
+            temp[i] = temp[i-1] + nums[i];
+        }
+        System.out.println(temp);
     }
     
     public int sumRange(int left, int right) 
     {
-        output = 0;
-        for(int i = left; i <= right; i++)
+        if(left == 0)
         {
-            output+= temp[i];
-        }    
-        return output;
+            return temp[right];
+        }
+        return temp[right] - temp[left - 1];
     }
 }
 
